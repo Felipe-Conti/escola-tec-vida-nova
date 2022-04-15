@@ -1,2 +1,2 @@
-# escola-tec-vida-nova
+# escola-tech-vida-nova
 Meu primeiro repositório
